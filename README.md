@@ -56,6 +56,13 @@ We provide part of the code in the folder `/src`, We will make the full source c
 | Code Whisperer | Plugin | 2022 |
 
 
+Non-LLM objects:
+| Model        | Access | Year |
+| ------------ | ------ | ---- |
+| DeepLV      | Model    | 2021 |
+| WhichVar      | Model    | 2021 |
+| LoGenText-Plus        | Model  | 2023 |
+
 # Benchmark Details
 Currently LogBench contains two sub-dataset for evaluating the performance of current code/log generation models, namely LogBench-O and LogBench-T.
 ## LogBench-O
